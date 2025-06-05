@@ -1,0 +1,96 @@
+# Organisational unit for 3ESOA department
+dn: ou=3ESOA,dc=examencarsi,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: 3ESOA
+
+# Organisational unit for 3ESOB department
+dn: ou=3ESOB,dc=examencarsi,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: 3ESOB
+
+# Organisational unit for 3ESOC department
+dn: ou=3ESOC,dc=examencarsi,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: 3ESOC
+
+# Organisational unit for 3ESOD department
+dn: ou=3ESOD,dc=examencarsi,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: 3ESOD
+
+# Organisational unit for 3ESOE department
+dn: ou=3ESOE,dc=examencarsi,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: 3ESOE
+
+# Organisational unit for 3ESOF department
+dn: ou=3ESOF,dc=examencarsi,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: 3ESOF
+
+# Organisational unit for 3ESOG department
+dn: ou=3ESOG,dc=examencarsi,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: 3ESOG
+
+# Organisational unit for 1BACHA department
+dn: ou=1BACHA,dc=examencarsi,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: 1BACHA
+
+# Organisational unit for 1BACHB department
+dn: ou=1BACHB,dc=examencarsi,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: 1BACHB
+
+# Organisational unit for 1BACHC department
+dn: ou=1BACHC,dc=examencarsi,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: 1BACHC
+
+# Organisational unit for 1BACHD department
+dn: ou=1BACHD,dc=examencarsi,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: 1BACHD
+
+# Organisational unit for 1BACHE department
+dn: ou=1BACHE,dc=examencarsi,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: 1BACHE
+
+# Organisational unit for GSasir1 department
+dn: ou=GSasir1,dc=examencarsi,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: GSasir1
+
+# Organisational unit for GSasir2 department
+dn: ou=GSasir2,dc=examencarsi,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: GSasir2
+
+# Organisational unit for GSdaw1 department
+dn: ou=GSdaw1,dc=examencarsi,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: GSdaw1
+
+# Organisational unit for GSdaw2 department
+dn: ou=GSdaw2,dc=examencarsi,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: GSdaw2
+
